@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x8fc8;&#x52a8;&#x8fed;&#x4ee3;/RulerClass/HaviRulerView.m"
+            timestampString = "482925995.545856"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "-animationRebound:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HaviRulerView animationRebound:]"
+                  moduleName = "&#x8fc8;&#x52a8;&#x8fed;&#x4ee3;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Havi_Home1/Desktop/%E8%BF%88%E5%8A%A85.1%E7%89%88%E6%9C%AC%E8%BF%AD%E4%BB%A3%E5%8F%82%E8%80%83/%E8%BF%88%E5%8A%A8%E8%BF%AD%E4%BB%A3/%E8%BF%88%E5%8A%A8%E8%BF%AD%E4%BB%A3/RulerClass/HaviRulerView.m"
+                  timestampString = "482932004.844309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__34-[HaviRulerView animationRebound:]_block_invoke"
+                  moduleName = "&#x8fc8;&#x52a8;&#x8fed;&#x4ee3;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Havi_Home1/Desktop/%E8%BF%88%E5%8A%A85.1%E7%89%88%E6%9C%AC%E8%BF%AD%E4%BB%A3%E5%8F%82%E8%80%83/%E8%BF%88%E5%8A%A8%E8%BF%AD%E4%BB%A3/%E8%BF%88%E5%8A%A8%E8%BF%AD%E4%BB%A3/RulerClass/HaviRulerView.m"
+                  timestampString = "482932004.844525"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

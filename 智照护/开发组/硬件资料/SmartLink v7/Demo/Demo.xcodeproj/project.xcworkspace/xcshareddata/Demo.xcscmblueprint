@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "85cc4373-b382-6e43-8ae1-b36cab93f771++465",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "85cc4373-b382-6e43-8ae1-b36cab93f771++465" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "85cc4373-b382-6e43-8ae1-b36cab93f771++465" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9475F4E2-9A6A-4517-858C-5F817E0D1B4F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "85cc4373-b382-6e43-8ae1-b36cab93f771++465" : "SmartLink%20v7\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Demo\/Demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/havi.li@svn.meddo99.com:18080\/svn\/DevelopResources",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "85cc4373-b382-6e43-8ae1-b36cab93f771++465"
+    }
+  ]
+}
